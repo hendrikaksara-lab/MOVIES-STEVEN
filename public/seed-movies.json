@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Interstellar",
+    "director": "Christopher Nolan",
+    "genre": "Science Fiction",
+    "release_year": 2014,
+    "rating": 8.7,
+    "description": "A group of astronauts travel through a wormhole in search of a new home for humanity.",
+    "image": "https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg"
+  },
+  {
+    "title": "Spider-Man: Into the Spider-Verse",
+    "director": "Bob Persichetti",
+    "genre": "Animation",
+    "release_year": 2018,
+    "rating": 8.4,
+    "description": "Miles Morales discovers what it means to be Spider-Man across a universe of heroes.",
+    "image": "https://image.tmdb.org/t/p/w500/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg"
+  },
+  {
+    "title": "Inception",
+    "director": "Christopher Nolan",
+    "genre": "Action",
+    "release_year": 2010,
+    "rating": 8.8,
+    "description": "A skilled thief is offered a chance to erase his past by planting an idea in a target's mind.",
+    "image": "https://image.tmdb.org/t/p/w500/oYuLEt3zVCKq57qu2F8dT7NIa6f.jpg"
+  },
+  {
+    "title": "Parasite",
+    "director": "Bong Joon-ho",
+    "genre": "Drama",
+    "release_year": 2019,
+    "rating": 8.5,
+    "description": "A struggling family becomes entangled in the lives of a wealthy household.",
+    "image": "https://image.tmdb.org/t/p/w500/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg"
+  },
+  {
+    "title": "Coco",
+    "director": "Lee Unkrich",
+    "genre": "Animation",
+    "release_year": 2017,
+    "rating": 8.4,
+    "description": "A young musician journeys into the Land of the Dead to uncover his family's story.",
+    "image": "https://image.tmdb.org/t/p/w500/gGEsBPAijhVUFoiNpgZXqRVWJt2.jpg"
+  },
+  {
+    "title": "The Grand Budapest Hotel",
+    "director": "Wes Anderson",
+    "genre": "Comedy",
+    "release_year": 2014,
+    "rating": 8.1,
+    "description": "A hotel concierge and his lobby boy become caught up in a valuable painting mystery.",
+    "image": "https://image.tmdb.org/t/p/w500/eWdyYQreja6JGCzqHWXpWHDrrPo.jpg"
+  },
+  {
+    "title": "Mad Max: Fury Road",
+    "director": "George Miller",
+    "genre": "Action",
+    "release_year": 2015,
+    "rating": 8.1,
+    "description": "In a stark desert wasteland, a road warrior joins a high-speed escape from a tyrant.",
+    "image": "https://image.tmdb.org/t/p/w500/8tZYtuWezp8JbcsvHYO0O46tFbo.jpg"
+  },
+  {
+    "title": "Get Out",
+    "director": "Jordan Peele",
+    "genre": "Horror",
+    "release_year": 2017,
+    "rating": 7.8,
+    "description": "A weekend visit with his girlfriend's family takes a disturbing turn for Chris.",
+    "image": "https://image.tmdb.org/t/p/w500/tFXcEccSQMf3lfhfXKSU9iRBpa3.jpg"
+  }
+]
